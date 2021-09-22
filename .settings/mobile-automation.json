@@ -3,12 +3,32 @@
   "GenerateSelectorsForInnerElements": true,
   "Connections": [
     {
-      "Name": "Andy",
+      "Name": "Android",
       "Description": null,
       "Url": "https://andy.warns:9ad97426-cb9f-406d-8b7c-ef6d924fc3bd@ondemand.us-west-1.saucelabs.com:443/wd/hub",
       "PlatformName": "Android",
-      "PlatformVersion": "10.0",
+      "PlatformVersion": "10",
       "DeviceName": "Samsung Galaxy S9",
+      "SingleInstance": null,
+      "WaitForPageUpdate": true,
+      "Capabilities": {},
+      "GeoLocation": null,
+      "LoggingModel": {
+        "LoggingEnabled": false,
+        "VideoRecordingEnabled": false,
+        "RecordingTimeLimit": 600,
+        "VideoQuality": 1,
+        "CollectScreenshot": 0,
+        "CollectPageSource": 0
+      }
+    },
+    {
+      "Name": "IOS",
+      "Description": null,
+      "Url": "https://andy.warns:9ad97426-cb9f-406d-8b7c-ef6d924fc3bd@ondemand.us-west-1.saucelabs.com:443/wd/hub",
+      "PlatformName": "iOS",
+      "PlatformVersion": "14.5.1",
+      "DeviceName": "Ipad Air 2",
       "SingleInstance": null,
       "WaitForPageUpdate": true,
       "Capabilities": {},
