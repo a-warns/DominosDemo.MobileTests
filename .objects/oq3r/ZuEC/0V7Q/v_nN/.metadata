@@ -1,0 +1,16 @@
+﻿{
+  "Id": "v_nNqcoGC0iWsjx_4DcUmA",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/v_nNqcoGC0iWsjx_4DcUmA",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/0V7Qmj-TDEaN2WCkoNg8wQ",
+  "Name": "TxtUsername",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2021-06-23T03:34:32.7331827Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-25T17:23:17.4903605Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

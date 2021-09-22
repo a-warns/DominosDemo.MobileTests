@@ -1,0 +1,16 @@
+﻿{
+  "Id": "naDZtEapuke5m9FxHI23qA",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/naDZtEapuke5m9FxHI23qA",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/0V7Qmj-TDEaN2WCkoNg8wQ",
+  "Name": "TxtPassword",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2021-06-23T03:35:37.9308582Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T03:35:53.9869934Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

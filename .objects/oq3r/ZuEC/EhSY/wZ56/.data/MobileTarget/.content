@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="eSTXx1m2OEe4YCIpK_qSEQ" DesignTimeRectangle="22, 378, 142, 42" FullSelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Item title' text='Sauce Labs Backpack' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Item title' text='Sauce Labs Backpack' id='' check:text='Sauce Labs Backpack' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Sauce Labs Backpack" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0Kdw5UI_N-UiZiZ_TBZA1lg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3020c8b7997e34fb4cdf94523613c4b2.png" xmlns="">0gPHLHWSVVE6yqL7LRJecOg</imageRef>
+</Target>

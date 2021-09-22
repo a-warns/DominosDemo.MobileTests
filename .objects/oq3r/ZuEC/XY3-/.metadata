@@ -1,0 +1,12 @@
+﻿{
+  "Id": "XY3-swUTOE2AwbQ4XvKAWw",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/XY3-swUTOE2AwbQ4XvKAWw",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/ZuECoOQLOUqyPgqikB3zUQ",
+  "Name": "Header",
+  "Type": "Screen",
+  "Created": "2021-06-23T03:51:10.6778197Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T03:51:10.6778197Z"
+}

@@ -1,0 +1,119 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="ViewCart" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uma="clr-namespace:UiPath.MobileAutomation.Activities;assembly=UiPath.MobileAutomation.Activities" xmlns:umm="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="in_MobileConnection" Type="InArgument(uma:MobileDevice)" />
+  </x:Members>
+  <mva:VisualBasic.Settings>
+    <x:Null />
+  </mva:VisualBasic.Settings>
+  <sap:VirtualizedContainerService.HintSize>1506,1227</sap:VirtualizedContainerService.HintSize>
+  <sap2010:WorkflowViewState.IdRef>ViewCart_1</sap2010:WorkflowViewState.IdRef>
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>UiPath.MobileAutomation.Enums</x:String>
+      <x:String>UiPath.MobileAutomation.Contracts.Target</x:String>
+      <x:String>UiPath.MobileAutomation.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.MobileAutomation.Models</x:String>
+      <x:String>UiPath.MobileAutomation.Activities.Enums</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>UiPath.MobileAutomation</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
+      <AssemblyReference>UiPath.MobileAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="ViewCart" sap:VirtualizedContainerService.HintSize="452,726" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="XamlName">
+        <Variable.Default>
+          <Literal x:TypeArguments="x:String">ViewCart.xaml</Literal>
+        </Variable.Default>
+      </Variable>
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="410,93" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[XamlName + &quot; &gt; Starting&quot;]" />
+    <uma:MobileDeviceConnection CollectPageSource="{x:Null}" CollectScreenshot="{x:Null}" LoggingEnabled="{x:Null}" LoggingFolderPath="{x:Null}" MirroringEnabled="{x:Null}" StartPage="{x:Null}" VideoRecordingEnabled="{x:Null}" VideoRecordingQuality="{x:Null}" AppiumUrl="[in_MobileConnection.ConnectionModel.Url]" Close="Never" DisplayName="Mobile Device Connection" sap:VirtualizedContainerService.HintSize="410,368" sap2010:WorkflowViewState.IdRef="MobileDeviceConnection_1" InputConnection="[in_MobileConnection]" SingleInstanceForDevelopment="True" VideoRecordingTimeLimit="600" WaitForPageUpdateDevelopment="True">
+      <uma:MobileDeviceConnection.Arguments>
+        <scg:Dictionary x:TypeArguments="x:String, Argument" />
+      </uma:MobileDeviceConnection.Arguments>
+      <uma:MobileDeviceConnection.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="UiPathScopeContext" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,264" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uma:Tap DelayAfter="{x:Null}" DelayBefore="{x:Null}" Timeout="{x:Null}" sap:VirtualizedContainerService.HintSize="334,172" sap2010:WorkflowViewState.IdRef="Tap_1" RequiresInitialization="False" TapType="Single">
+              <uma:Tap.Target>
+                <umm:Target Accuracy="0.8" ContentHash="N8oIsWGRgE6d78mkzGsB-g" DesignTimeRectangle="310, 29, 40, 40" FullSelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Cart' /&gt;&lt;mbl android:className='android.view.ViewGroup' idx='2' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Cart' id='' text='' /&gt;&lt;mbl android:className='android.view.ViewGroup' id='' accessibilityId='' text='' check:text='' /&gt;" ImageBase64="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" InformativeScreenshot="e64289c3209b3844fc670dd237ae768c.png" Occurence="0" Reference="iGhCyS5iJES6wq-QsPb6FA/33qSPdHJ40u7IXNJUNzCuw" SearchSteps="Selector, FuzzySelector, Image" Text="" />
+              </uma:Tap.Target>
+            </uma:Tap>
+          </Sequence>
+        </ActivityAction>
+      </uma:MobileDeviceConnection.Body>
+    </uma:MobileDeviceConnection>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="410,93" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[XamlName + &quot; &gt; Ending&quot;]" />
+  </Sequence>
+</Activity>

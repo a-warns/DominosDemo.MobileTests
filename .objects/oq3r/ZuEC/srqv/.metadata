@@ -1,0 +1,12 @@
+﻿{
+  "Id": "srqvY1aRDUa4klOyXSoGaw",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/srqvY1aRDUa4klOyXSoGaw",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/ZuECoOQLOUqyPgqikB3zUQ",
+  "Name": "Cart",
+  "Type": "Screen",
+  "Created": "2021-06-24T16:38:59.6610875Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-24T16:38:59.6610875Z"
+}

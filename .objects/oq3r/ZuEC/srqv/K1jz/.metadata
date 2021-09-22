@@ -1,0 +1,16 @@
+﻿{
+  "Id": "K1jzc4fy7Ui5Zr01RUQO3w",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/K1jzc4fy7Ui5Zr01RUQO3w",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/srqvY1aRDUa4klOyXSoGaw",
+  "Name": "TxtCartDetails",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2021-06-24T16:39:07.0508622Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-24T16:39:56.234153Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

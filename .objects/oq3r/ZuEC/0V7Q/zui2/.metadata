@@ -1,0 +1,16 @@
+﻿{
+  "Id": "zui2q2Q56UevTGsfucyklg",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/zui2q2Q56UevTGsfucyklg",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/0V7Qmj-TDEaN2WCkoNg8wQ",
+  "Name": "BtnLogin",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-06-23T03:36:02.0876182Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T03:37:03.6581582Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

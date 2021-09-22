@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jSYJJbsc3kq-hXS42ziKeg",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/jSYJJbsc3kq-hXS42ziKeg",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/iDA6aEy62kW4NNr6Ox6KEQ",
+  "Name": "BtnAddToCart",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-06-23T17:41:27.439879Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T17:41:50.4071535Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

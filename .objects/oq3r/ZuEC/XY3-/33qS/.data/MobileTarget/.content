@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="N8oIsWGRgE6d78mkzGsB-g" DesignTimeRectangle="310, 29, 40, 40" FullSelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Cart' /&gt;&lt;mbl android:className='android.view.ViewGroup' idx='2' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Cart' id='' text='' /&gt;&lt;mbl android:className='android.view.ViewGroup' id='' accessibilityId='' text='' check:text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0veak486-ikKxdI9X_nnWVw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e64289c3209b3844fc670dd237ae768c.png" xmlns="">0RRf2XMn3qkeO_5XwugnhKA</imageRef>
+</Target>

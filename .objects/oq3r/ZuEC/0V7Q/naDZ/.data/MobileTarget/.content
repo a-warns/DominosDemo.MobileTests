@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="UPQ-stINA02IYyFh1v8y5w" DesignTimeRectangle="40, 226, 280, 49" FullSelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Password' /&gt;&#xD;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Password' id='' text='Password' /&gt;&#xD;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Password" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0qsfqyGyuhUSx41WfnU7M0w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3f9b105336b9e045015a1c0bf8ab1183.png" xmlns="">0Rdi4XHxEOUKKlGC-zWus6g</imageRef>
+</Target>

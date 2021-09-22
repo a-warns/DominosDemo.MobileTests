@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="G7S7AeE_IkWOUJVkhJ03OA" DesignTimeRectangle="40, 154, 280, 49" FullSelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Username' /&gt;&#xD;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Username' id='' text='Username' /&gt;&#xD;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Username" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0gh-HIWdZkUa4kek-N_dcPw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ccb32e1974cc4ca3925aa879b25d8a0f.png" xmlns="">0lS3987BMg026KHT0z_FY5Q</imageRef>
+</Target>

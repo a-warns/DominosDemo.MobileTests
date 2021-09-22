@@ -1,0 +1,16 @@
+﻿{
+  "Id": "OtZcLj5ZlUaF6RoaNJPY7g",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/OtZcLj5ZlUaF6RoaNJPY7g",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/XY3-swUTOE2AwbQ4XvKAWw",
+  "Name": "BtnMenu",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-06-23T03:51:16.6664037Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T03:51:56.2513123Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

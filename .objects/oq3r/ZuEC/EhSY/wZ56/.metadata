@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wZ564hqRKUG54a8dRmSRww",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/wZ564hqRKUG54a8dRmSRww",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/EhSY_PwjvUqP-GyoB-SVYw",
+  "Name": "LnkProductName",
+  "Type": "Element",
+  "TaxonomyType": "Link",
+  "Created": "2021-06-23T04:04:00.0682492Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T04:25:56.0720583Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

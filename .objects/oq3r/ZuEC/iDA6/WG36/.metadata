@@ -1,0 +1,16 @@
+﻿{
+  "Id": "WG369ct800yYM07qos50aQ",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/WG369ct800yYM07qos50aQ",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/iDA6aEy62kW4NNr6Ox6KEQ",
+  "Name": "ImgProduct",
+  "Type": "Element",
+  "TaxonomyType": "Image",
+  "Created": "2021-06-23T17:52:33.1852351Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T17:53:14.9667921Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

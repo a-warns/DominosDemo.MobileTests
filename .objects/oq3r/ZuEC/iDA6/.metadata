@@ -1,0 +1,12 @@
+﻿{
+  "Id": "iDA6aEy62kW4NNr6Ox6KEQ",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/iDA6aEy62kW4NNr6Ox6KEQ",
+  "ParentRef": "iGhCyS5iJES6wq-QsPb6FA/ZuECoOQLOUqyPgqikB3zUQ",
+  "Name": "Product",
+  "Type": "Screen",
+  "Created": "2021-06-23T17:41:21.0794839Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T17:41:21.0794839Z"
+}

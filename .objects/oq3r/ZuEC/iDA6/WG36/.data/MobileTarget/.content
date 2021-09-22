@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="Xqu2G4wGik-KIy3UD5CQ9A" DesignTimeRectangle="25, 189, 310, 387" FullSelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Image Container' /&gt;&#xD;&#xA;&lt;mbl android:className='android.widget.ImageView' /&gt;&#xD;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Image Container' id='' text='' /&gt;&#xD;&#xA;&lt;mbl android:className='android.widget.ImageView' id='' accessibilityId='' text='' check:text='' /&gt;&#xD;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0bPzCEKIguU6gBHJ0JPWUbg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8679e0f1e077c41a3e99267805db487d.png" xmlns="">02tntMeF1C06veFYn2Ofh6w</imageRef>
+</Target>

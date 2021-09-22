@@ -1,0 +1,52 @@
+{
+  "name": "DominosDemos.MobileTests",
+  "description": "Mobile App Activities for Swag Labs on Android\r\n",
+  "main": "NewActivity.xaml",
+  "dependencies": {
+    "UiPath.MobileAutomation.Activities": "21.4.3",
+    "UiPath.System.Activities": "21.4.1",
+    "UiPath.UIAutomation.Activities": "21.4.4"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.4.3.0",
+  "projectVersion": "1.0.85978727",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Library",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3a23b10a-a958-459d-979f-977a40e6c198",
+        "fileName": "Test-MobileDemo.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

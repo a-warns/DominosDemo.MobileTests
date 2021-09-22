@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="jHI8WGiig0OP7gyI_jkTXg" DesignTimeRectangle="70, 468, 280, 49" FullSelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-REMOVE' /&gt;&#xD;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-REMOVE' id='' text='' check:text='' /&gt;&#xD;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0B090NTYL10a_lEHv27Cv7w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="eacb570da05ea37938362573547fe538.png" xmlns="">0mcoEZbjbk0-fKQCEQpC3FA</imageRef>
+</Target>

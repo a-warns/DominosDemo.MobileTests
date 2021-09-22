@@ -1,0 +1,11 @@
+﻿{
+  "Id": "oq3rWMqRTkqgyBmCOTkRfw",
+  "Reference": "iGhCyS5iJES6wq-QsPb6FA/oq3rWMqRTkqgyBmCOTkRfw",
+  "Name": "Android",
+  "Type": "App",
+  "Created": "2021-06-23T03:34:17.4415278Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-06-23T03:34:17.4415278Z"
+}
